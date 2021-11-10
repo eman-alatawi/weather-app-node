@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "name": "eman-weather",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js Kolkata",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
